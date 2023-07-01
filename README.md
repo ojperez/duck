@@ -53,7 +53,7 @@ php artisan duck:manage kill
 ```
 
 ### Make your duck walk
-Your duck will walk on command in the direction you order it too,
+Your duck will walk on command in the direction you order it to,
 first, set the direction (N, S, E, W), and then command it to walk.
 ```
 php artisan duck:manage turn [direction]
